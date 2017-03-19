@@ -1,0 +1,25 @@
+{
+	"FileVersion" : 3,
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"FriendlyName" : "VoxelGrids",
+	"Description" : "A plugin that adds voxel based procedural mesh functionality using the Surface Nets algorithm.",
+	"Category" : "Rendering",
+	"CreatedBy" : "Zachary Corley",
+	"CreatedByURL" : "",
+	"DocsURL" : "",
+	"MarketplaceURL" : "",
+	"SupportURL" : "",
+	"EnabledByDefault" : false,
+	"CanContainContent" : false,
+	"IsBetaVersion" : false,
+	"Installed" : false,
+	"Modules" :
+	[
+		{
+			"Name" : "VoxelGrids",
+			"Type" : "Developer",
+			"LoadingPhase" : "Default"
+		}
+	]
+}
